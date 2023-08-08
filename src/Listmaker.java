@@ -40,7 +40,7 @@ public class FileListmaker {
                 case"C":
                     clearList ();
                     break;
-                case "Q": SafeInput.getYNConfirm (in,"wanna quit data gonna loose");
+                case "Q": SafeInput.getYNConfirm (in,"wanna quit! Data gonna lost");
                    actionChoose = false;
                     break;
             }
